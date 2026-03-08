@@ -1,1 +1,25 @@
+# Module {{MODULE_NUMBER}} — {{MODULE_NAME}}
 
+This module contains the following sections:
+
+1. {{SECTION_1_NAME}}
+2. {{SECTION_2_NAME}}
+3. ...
+
+## Objectives
+- Outline the purpose of this module.
+- Summarize what skills and concepts you will learn.
+- Highlight tools, frameworks, or methodologies introduced.
+
+## Notes
+- Optional general notes about the module.
+- Tips for understanding connections between sections.
+
+## Sections
+Each section contains individual tasks with:
+- Objectives
+- Concepts
+- Tools used
+- Lab steps and evidence
+- Findings summary
+- Resume-ready bullets
